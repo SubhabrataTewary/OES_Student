@@ -43,10 +43,10 @@ class _BodyState extends State<Body> {
                 style: TextStyle(fontWeight: FontWeight.bold),
               ),
               SizedBox(height: size.height * 0.03),
-              SvgPicture.asset(
-                "assets/icons/login.svg",
-                height: size.height * 0.35,
-              ),
+              // SvgPicture.asset(
+              //   "assets/icons/login.svg",
+              //   height: size.height * 0.35,
+              // ),
               SizedBox(height: size.height * 0.03),
               // TextFieldContainer(
               //   child: TextFormField(
